@@ -1,0 +1,3 @@
+[submodule "public_html/wp-beirut-core"]
+	path = public_html/wp-beirut-core
+	url = git://github.com/WordPress/WordPress.git
